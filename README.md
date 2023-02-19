@@ -21,6 +21,9 @@ ASP.NET MVC ile yazılmış admin panelli kişisel web sitesi projesidir.
  **PROJE TANITIM VİDEOSU :**
 https://www.youtube.com/watch?v=mw3ykEIK-aE&ab_channel=Bar%C4%B1%C5%9FBeytur
 
+**PROJE WEB SİTESİ :**
+http://barisbeytur.epizy.com/
+
 ## Proje Görüntüleri
 
 ![1](https://user-images.githubusercontent.com/77030797/198393873-c437df79-56da-4655-8d64-d92c84eaf160.jpg)
