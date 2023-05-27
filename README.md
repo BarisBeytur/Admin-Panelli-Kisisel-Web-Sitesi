@@ -42,6 +42,12 @@ VERİTABANI ve DOSYALAMA YAPISI :
 
 ![database](https://user-images.githubusercontent.com/77030797/198394226-bd0c7f5c-0212-48e5-b5ea-2ce74ad94f8a.jpg)
 
+## Developed By
+***Barış Beytur***
+
+## Social
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barisbeytur/)
+
 ![solution explorer](https://user-images.githubusercontent.com/77030797/198394242-b9839a89-6774-4740-89b5-ffb1c654f65c.jpg)
 
 
